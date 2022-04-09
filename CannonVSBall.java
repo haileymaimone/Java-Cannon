@@ -7,11 +7,7 @@ import java.util.Arrays;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.Vector;
-
-// Ricky Peddicord, Hailey Maimone, Kelli Huff
-// Group 1
-// CET 350
-// ped8697@calu.edu, mai5013@calu.edu, huf2203@calu.edu
+//Hailey Maimone -- Chat Program -- CET350 Technical Computing Using Java
 
 
 public class CannonVSBall implements WindowListener, ComponentListener, ActionListener, AdjustmentListener, Runnable, MouseListener, MouseMotionListener, ItemListener {
